@@ -2,7 +2,7 @@
 
 **zinx-YT/zinx-YT**
 
-- 🔭 I’m currently working on something
-- 🌱 I’m currently learning/learnt node.js, c#, html
+- 🔭 I’m currently working on eon
+- 🌱 I’m currently learnt node.js, c#
+- I'm currently learning c++
 - 📫 How to reach me: zinx#9999
-- 😄 Pronouns: you dont need to know ;)
