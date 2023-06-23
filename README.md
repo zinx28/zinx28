@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on eon
 - 🌱 I’m currently learnt node.js, c#
 - I'm currently learning c++
-- 📫 How to reach me: zinx#9999
+- 📫 How to reach me on discord: zinx28
