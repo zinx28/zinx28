@@ -3,6 +3,6 @@
 **zinx-YT/zinx-YT**
 
 - 🔭 I’m currently working on eon
-- 🌱 I’m currently learnt node.js, c#
+- 🌱 I've learned node.js, c#
 - I'm currently learning c++
 - 📫 How to reach me on discord: zinx28
