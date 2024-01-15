@@ -1,8 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm zinx</h1>
 
-**zinx-YT/zinx-YT**
+###### idrk readme ig?
 
-- 🔭 I’m currently working on eon
-- 🌱 I've learned node.js, c#
+- I've learned node.js, c#
 - I'm currently learning c++
-- 📫 How to reach me on discord: zinx28
+- How to reach me on discord: zinx28
