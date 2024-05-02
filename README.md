@@ -2,6 +2,6 @@
 
 ###### idrk readme ig?
 
-- I've learned Node.JS and C#
+- I've learned javascript and C#
 - How to reach me on discord: zinx28
 - Terrible at english for some reason (also had zinx-YT but changed as i'm not even a youtuber)
