@@ -1,9 +1,13 @@
-<h1 align="center">Hi there, I'm zinx</h1>
+<h1 align="center">Hey, I'm zinx</h1>
+<h3 align="center"> Backend Developer </h3>
 
-###### idrk readme ig?
+## About me
 
-- I've learnt js, C# and a few others
-- How to reach me on discord: zinx28
+- I mainly work with C#, JS/TS and Go
+- I love working on backends and other random projects *(that i never finish)*
+
+### How to reach me!
+- Discord: zinx28
 
 ## Projects
 - [FortServer](https://github.com/zinx28/FortServer) (Universal Fortnite Private Server)
